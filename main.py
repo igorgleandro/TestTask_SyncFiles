@@ -47,7 +47,8 @@ while True:
         print('Sync of ' + file + " has been made.")
         
         with open(logFile, 'a') as f:
-            f.write("Copied: " + file + "\n")
+            f.write("Copied: " + os.path.join(os.getcwd(), file) + " to " + os.path.join(pathDestination, file) + "\n")
+
         
 
     # in this code block:
@@ -61,7 +62,7 @@ while True:
             print(file + " has been removed from the output folder. \n")
             
             with open(logFile, 'a') as f:
-                f.write("Removed: " + file + "\n")
+                f.write("Removed: " + os.path.join(pathDestination, file) + "\n")
 
     inputFilesList = os.listdir() 
     outputFilesList = os.listdir(pathDestination)

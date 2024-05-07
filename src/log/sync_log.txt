@@ -1,37 +1,42 @@
 
-Sync started at: 2024-05-06 17:55:19
-
-Sync started at: 2024-05-06 17:56:19
-
-Sync started at: 2024-05-06 17:57:19
-
-Sync started at: 2024-05-06 17:58:19
-
-Sync started at: 2024-05-06 17:59:19
-
-Sync started at: 2024-05-06 18:00:19
-
-Sync started at: 2024-05-06 18:00:57
-
-Sync started at: 2024-05-06 18:01:40
+Sync started at: 2024-05-07 12:04:57
 Copied: /Users/igorgleandro/Desktop/Escritorio_Igor_iMac/myRepoGithub/TestTask_SyncFiles/src/input/HarryPotter.txt to /Users/igorgleandro/Desktop/Escritorio_Igor_iMac/myRepoGithub/TestTask_SyncFiles/src/output/HarryPotter.txt
-Copied: /Users/igorgleandro/Desktop/Escritorio_Igor_iMac/myRepoGithub/TestTask_SyncFiles/src/input/HarryPotter.txt to /Users/igorgleandro/Desktop/Escritorio_Igor_iMac/myRepoGithub/TestTask_SyncFiles/src/output/HarryPotter.txt
-Sync completed at: 2024-05-06 18:01:40
+Removed: /Users/igorgleandro/Desktop/Escritorio_Igor_iMac/myRepoGithub/TestTask_SyncFiles/src/output/.DS_Store
+Removed: /Users/igorgleandro/Desktop/Escritorio_Igor_iMac/myRepoGithub/TestTask_SyncFiles/src/output/HarryPotter.txt
+Sync completed at: 2024-05-07 12:04:57
 
-Sync started at: 2024-05-06 18:02:40
+Sync started at: 2024-05-07 12:09:26
 Copied: /Users/igorgleandro/Desktop/Escritorio_Igor_iMac/myRepoGithub/TestTask_SyncFiles/src/input/HarryPotter.txt to /Users/igorgleandro/Desktop/Escritorio_Igor_iMac/myRepoGithub/TestTask_SyncFiles/src/output/HarryPotter.txt
+Removed: /Users/igorgleandro/Desktop/Escritorio_Igor_iMac/myRepoGithub/TestTask_SyncFiles/src/output/.DS_Store
+Removed: /Users/igorgleandro/Desktop/Escritorio_Igor_iMac/myRepoGithub/TestTask_SyncFiles/src/output/HarryPotter.txt
+Sync completed at: 2024-05-07 12:09:26
 
-Sync started at: 2024-05-06 18:03:17
+Sync started at: 2024-05-07 12:10:26
 Copied: /Users/igorgleandro/Desktop/Escritorio_Igor_iMac/myRepoGithub/TestTask_SyncFiles/src/input/HarryPotter.txt to /Users/igorgleandro/Desktop/Escritorio_Igor_iMac/myRepoGithub/TestTask_SyncFiles/src/output/HarryPotter.txt
-Copied: /Users/igorgleandro/Desktop/Escritorio_Igor_iMac/myRepoGithub/TestTask_SyncFiles/src/input/HarryPotter.txt to /Users/igorgleandro/Desktop/Escritorio_Igor_iMac/myRepoGithub/TestTask_SyncFiles/src/output/HarryPotter.txt
-Sync completed at: 2024-05-06 18:03:17
+Copied: /Users/igorgleandro/Desktop/Escritorio_Igor_iMac/myRepoGithub/TestTask_SyncFiles/src/input/HarryPotter copy.txt to /Users/igorgleandro/Desktop/Escritorio_Igor_iMac/myRepoGithub/TestTask_SyncFiles/src/output/HarryPotter copy.txt
+Copied: /Users/igorgleandro/Desktop/Escritorio_Igor_iMac/myRepoGithub/TestTask_SyncFiles/src/input/HarryPotter copy.txt to /Users/igorgleandro/Desktop/Escritorio_Igor_iMac/myRepoGithub/TestTask_SyncFiles/src/output/HarryPotter copy.txt
+Removed: /Users/igorgleandro/Desktop/Escritorio_Igor_iMac/myRepoGithub/TestTask_SyncFiles/src/output/.DS_Store
+Removed: /Users/igorgleandro/Desktop/Escritorio_Igor_iMac/myRepoGithub/TestTask_SyncFiles/src/output/HarryPotter copy.txt
+Removed: /Users/igorgleandro/Desktop/Escritorio_Igor_iMac/myRepoGithub/TestTask_SyncFiles/src/output/HarryPotter.txt
+Removed: /Users/igorgleandro/Desktop/Escritorio_Igor_iMac/myRepoGithub/TestTask_SyncFiles/src/output/HarryPotter copy.txt
+Sync completed at: 2024-05-07 12:10:26
 
-Sync started at: 2024-05-06 18:04:17
+Sync started at: 2024-05-07 12:11:26
 Copied: /Users/igorgleandro/Desktop/Escritorio_Igor_iMac/myRepoGithub/TestTask_SyncFiles/src/input/HarryPotter.txt to /Users/igorgleandro/Desktop/Escritorio_Igor_iMac/myRepoGithub/TestTask_SyncFiles/src/output/HarryPotter.txt
-Copied: /Users/igorgleandro/Desktop/Escritorio_Igor_iMac/myRepoGithub/TestTask_SyncFiles/src/input/HarryPotter.txt to /Users/igorgleandro/Desktop/Escritorio_Igor_iMac/myRepoGithub/TestTask_SyncFiles/src/output/HarryPotter.txt
-Sync completed at: 2024-05-06 18:04:17
+Copied: /Users/igorgleandro/Desktop/Escritorio_Igor_iMac/myRepoGithub/TestTask_SyncFiles/src/input/.DS_Store to /Users/igorgleandro/Desktop/Escritorio_Igor_iMac/myRepoGithub/TestTask_SyncFiles/src/output/.DS_Store
+Removed: /Users/igorgleandro/Desktop/Escritorio_Igor_iMac/myRepoGithub/TestTask_SyncFiles/src/output/.DS_Store
+Removed: /Users/igorgleandro/Desktop/Escritorio_Igor_iMac/myRepoGithub/TestTask_SyncFiles/src/output/HarryPotter copy.txt
+Removed: /Users/igorgleandro/Desktop/Escritorio_Igor_iMac/myRepoGithub/TestTask_SyncFiles/src/output/HarryPotter.txt
+Removed: /Users/igorgleandro/Desktop/Escritorio_Igor_iMac/myRepoGithub/TestTask_SyncFiles/src/output/Folder
+Removed: /Users/igorgleandro/Desktop/Escritorio_Igor_iMac/myRepoGithub/TestTask_SyncFiles/src/output/.DS_Store
+Removed: /Users/igorgleandro/Desktop/Escritorio_Igor_iMac/myRepoGithub/TestTask_SyncFiles/src/output/HarryPotter copy.txt
+Sync completed at: 2024-05-07 12:11:26
 
-Sync started at: 2024-05-06 18:05:17
+Sync started at: 2024-05-07 12:12:26
 Copied: /Users/igorgleandro/Desktop/Escritorio_Igor_iMac/myRepoGithub/TestTask_SyncFiles/src/input/HarryPotter.txt to /Users/igorgleandro/Desktop/Escritorio_Igor_iMac/myRepoGithub/TestTask_SyncFiles/src/output/HarryPotter.txt
-Copied: /Users/igorgleandro/Desktop/Escritorio_Igor_iMac/myRepoGithub/TestTask_SyncFiles/src/input/HarryPotter.txt to /Users/igorgleandro/Desktop/Escritorio_Igor_iMac/myRepoGithub/TestTask_SyncFiles/src/output/HarryPotter.txt
-Sync completed at: 2024-05-06 18:05:17
+Copied: /Users/igorgleandro/Desktop/Escritorio_Igor_iMac/myRepoGithub/TestTask_SyncFiles/src/input/.DS_Store to /Users/igorgleandro/Desktop/Escritorio_Igor_iMac/myRepoGithub/TestTask_SyncFiles/src/output/.DS_Store
+Removed: /Users/igorgleandro/Desktop/Escritorio_Igor_iMac/myRepoGithub/TestTask_SyncFiles/src/output/.DS_Store
+Removed: /Users/igorgleandro/Desktop/Escritorio_Igor_iMac/myRepoGithub/TestTask_SyncFiles/src/output/HarryPotter copy.txt
+Removed: /Users/igorgleandro/Desktop/Escritorio_Igor_iMac/myRepoGithub/TestTask_SyncFiles/src/output/HarryPotter.txt
+Removed: /Users/igorgleandro/Desktop/Escritorio_Igor_iMac/myRepoGithub/TestTask_SyncFiles/src/output/.DS_Store
+Sync completed at: 2024-05-07 12:12:26
